@@ -6,6 +6,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=soongenwong)](https://github.com/ryo-ma/github-profile-trophy)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soongenwong&theme=vue)
+
 <!--
 **soongenwong/soongenwong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
