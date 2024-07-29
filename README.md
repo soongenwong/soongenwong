@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=soongenwong&show_icons=true&theme=radical)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=soongenwong&theme=dark)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=soongenwong)](https://github.com/ryo-ma/github-profile-trophy)
