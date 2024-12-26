@@ -2,8 +2,6 @@
 Welcome to my GitHub account. 
 Scroll down to find out more about my skills and projects!
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=soongenwong)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soongenwong&theme=vue)
 
 <!--
