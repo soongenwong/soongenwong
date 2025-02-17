@@ -2,8 +2,6 @@
 Welcome to my GitHub account. 
 Scroll down to find out more about my skills and projects!
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soongenwong&theme=vue)
-
 <!--
 **soongenwong/soongenwong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
