@@ -1,4 +1,4 @@
-Launching 100 Apps in 12 months. (15/100). July 1st 2025 - present
+Launching 100 Agents in 12 months. (30/100)
 
 10 Commits per day on Github. 
 
