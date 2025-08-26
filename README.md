@@ -30,4 +30,6 @@ Launching 100 AI Agents in 12 months (30/100).
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)]()
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)]()
+[![Groq](https://img.shields.io/badge/Groq_API-FF00A0?style=for-the-badge&logo=groq&logoColor=white)]()
+[![ElevenLabs](https://img.shields.io/badge/Eleven_Labs_API-2C2C2C?style=for-the-badge&logo=elevenlabs&logoColor=white)]()
 
