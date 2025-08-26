@@ -1,7 +1,7 @@
 Launching 100 AI Agents in 12 months (30/100). 
 10 Commits and 5 Leetcode per day.
 
-## 🌐 Socials
+## 💎 Socials
 
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.soongw.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soongenwong/)
