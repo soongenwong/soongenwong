@@ -3,7 +3,7 @@
 Launching 100 AI Agents in 12 months (40/100). 
 10 Commits and 5 Leetcode per day.
 
-1 🏆 Design Machines Hackathon - Entrepreneurs First x Vercel - Won 2 August 2025 - First Call AI - Upload an image of the emergency, calls 911 for you with AI
+1 🏆 Design Machines Hackathon - Entrepreneurs First x Vercel - Won, 2 August 2025 - First Call AI - Upload an image of the emergency, calls 911 for you with AI
 
 # 💎 Socials
 
@@ -39,4 +39,6 @@ Launching 100 AI Agents in 12 months (40/100).
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)]()
 [![Groq](https://img.shields.io/badge/Groq_API-FF00A0?style=for-the-badge&logo=groq&logoColor=white)]()
 [![ElevenLabs](https://img.shields.io/badge/Eleven_Labs_API-2C2C2C?style=for-the-badge&logo=elevenlabs&logoColor=white)]()
+[![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)]()
+
 
