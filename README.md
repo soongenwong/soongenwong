@@ -3,7 +3,7 @@
 Launching 100 AI Agents in 12 months (40/100). 
 10 Commits and 5 Leetcode per day.
 
-1 🏆 Design Machines Hackathon - Entrepreneurs First x Vercel - Won, 2 August 2025 - First Call AI - Upload an image of the emergency, calls 911 for you with Voice Assistant API.
+1 🏆 Design Machines Hackathon - Vercel x EF - Won, 2 August 2025 - First Call AI - Upload an image of the emergency, calls 911 for you with Voice Assistant API.
 
 # 💎 Socials
 
