@@ -1,5 +1,7 @@
 # 💫 About Me
 
+Third Year Computer Engineering Student at Imperial College London. Software Engineer. 
+
 Launching 100 AI Agents in 12 months (40/100). 
 10 Commits and 5 Leetcode per day.
 
