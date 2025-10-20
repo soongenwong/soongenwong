@@ -2,7 +2,7 @@
 
 Third Year Computer Engineering at Imperial College London.
 
-Launhed 40 / 100 AI Agents, Web Apps and Mobile Apps.
+Launhed 45 / 100 AI Agents, Web Apps and Mobile Apps.
 
 Anthropic AI Ambassador.
 
