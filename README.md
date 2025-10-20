@@ -1,9 +1,10 @@
 # 💫 About Me
 
-Third Year Computer Engineering Student at Imperial College London. Software Engineer. 
+Third Year Computer Engineering at Imperial College London.
 
-Launching 100 AI Agents in 12 months (40/100). 
-10 Commits and 5 Leetcode per day.
+Launhed 40 / 100 AI Agents, Web Apps and Mobile Apps.
+
+Anthropic AI Ambassador.
 
 1 🏆 Design Machines Hackathon - Vercel x EF - Won, 2 August 2025 - First Call AI - Upload an image of the emergency, calls 911 for you with Voice Assistant API.
 
