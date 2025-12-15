@@ -8,6 +8,8 @@ Anthropic AI Ambassador.
 
 1 🏆 Design Machines Hackathon - Vercel x EF - Won, 2 August 2025 - First Call AI - Upload an image of the emergency, calls 911 for you with Voice Assistant API.
 
+![View Count](https://komarev.com/ghpvc/?username=soongenwong&label=Profile%20views&color=0e75b6&style=flat)
+
 # 💎 Socials
 
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.soongw.com/)
