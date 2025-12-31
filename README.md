@@ -4,8 +4,6 @@ Third Year Computer Engineering at Imperial College London.
 
 Launhed 45 / 100 AI Agents, Web Apps and Mobile Apps.
 
-Anthropic AI Ambassador.
-
 1 🏆 Design Machines Hackathon - Vercel x EF - Won, 2 August 2025 - First Call AI - Upload an image of the emergency, calls 911 for you with Voice Assistant API.
 
 ![View Count](https://komarev.com/ghpvc/?username=soongenwong&label=Profile%20views&color=ffa500&style=for-the-badge)
