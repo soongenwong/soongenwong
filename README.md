@@ -2,9 +2,13 @@
 
 Third Year Computer Engineering at Imperial College London.
 
-Launched 60 / 100 AI Agents, Web Apps and Mobile Apps.
+Launched 80 / 100 AI Agents, Web Apps and Mobile Apps.
 
-1 🏆 Design Machines Hackathon - Vercel x EF - Won, 2 August 2025 - First Call AI - Upload an image of the emergency, calls 911 for you with Voice Assistant API.
+### 🏆 Hackathon Wins
+* **Qube Research & Technologies Hackathon** – Winner.
+* **Balyasny Asset Management Hackathon** – Winner.
+* **Design Machines Hackathon (Vercel x EF)** – Winner (August 2, 2025).
+    * *Project:* **First Call AI** – Upload an image of an emergency, and the app automatically contacts 911 using a specialized Voice Assistant API.
 
 ![View Count](https://komarev.com/ghpvc/?username=soongenwong&label=Profile%20views&color=ffa500&style=for-the-badge)
 
