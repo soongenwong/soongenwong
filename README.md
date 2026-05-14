@@ -1,6 +1,6 @@
 # 💫 About Me
 
-Anthropic AI London Ambassador
+Anthropic AI Ambassador
 
 Computer Engineering at Imperial College London.
 
