@@ -1,10 +1,6 @@
 # 💫 About Me
 
-Anthropic AI Ambassador
-
 Computer Engineering at Imperial College London.
-
-Launched 100 / 100 AI Agents, Web Apps and Mobile Apps.
 
 ### 🏆 Hackathon Wins
 * **Qube Research & Technologies Hackathon** – Winner.
