@@ -15,7 +15,7 @@ My focus is on **low-latency systems, quantitative data platforms, and high-conc
 ---
 
 ### 🚀 Selected Work
-* **[AetherFlow](https://github.com/soongenwong/AetherFlow)** — Zero-copy streaming market data and microstructure feature engine. Built with POSIX shared memory (`8.51M ticks/sec` IPC) and fused Numba JIT kernels evaluating 1,000-tick windows in **4.58 µs (p50)**.
+* **[AetherFlow](https://github.com/soongenwong/aether_flow)** — Zero-copy streaming market data and microstructure feature engine. Built with POSIX shared memory (`8.51M ticks/sec` IPC) and fused Numba JIT kernels evaluating 1,000-tick windows in **4.58 µs (p50)**.
 * **First Call AI** — Autonomous emergency response platform integrating computer vision and real-time voice agent pipelines (*1st Place @ Vercel × EF Hackathon*).
 
 ---
