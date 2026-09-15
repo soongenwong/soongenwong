@@ -1,12 +1,31 @@
-# 💫 About Me
+# Hi, I'm Soong En 👋
 
-Computer Engineering at Imperial College London.
+I'm an MEng Computer Engineering student at **Imperial College London** (First Class Honours).  
+My focus is on **low-latency systems, quantitative data platforms, and high-concurrency backend architecture**.
 
-### 🏆 Hackathon Wins
-* **Qube Research & Technologies Hackathon** – Winner.
-* **Balyasny Asset Management Hackathon** – Winner.
-* **Design Machines Hackathon (Vercel x EF)** – Winner (August 2, 2025).
-    * *Project:* **First Call AI** – Upload an image of an emergency, and the app automatically contacts 911 using a specialized Voice Assistant API.
+---
+
+### 🏆 Honors & Competitions
+* **International Mathematical Olympiad (IMO)** — National Team Representative & National Gold Medalist.
+* **Qube Research & Technologies (QRT) Algothon** — Winner / Top 10 (Black-Litterman quantitative strategy, Sharpe 1.2).
+* **Balyasny Asset Management (BAM) Hackathon** — Winner.
+* **Vercel × Entrepreneur First (EF) Hackathon** — 1st Place Winner (*Design Machines*).
+* **Anthropic AI** — Claude Ambassador & Head of Tech at Imperial.
+
+---
+
+### 🚀 Selected Work
+* **[AetherFlow](https://github.com/soongenwong/AetherFlow)** — Zero-copy streaming market data and microstructure feature engine. Built with POSIX shared memory (`8.51M ticks/sec` IPC) and fused Numba JIT kernels evaluating 1,000-tick windows in **4.58 µs (p50)**.
+* **First Call AI** — Autonomous emergency response platform integrating computer vision and real-time voice agent pipelines (*1st Place @ Vercel × EF Hackathon*).
+
+---
+
+### 🛠️ Technical Focus
+* **Systems & Quant:** POSIX Shared Memory, Circular Ring Buffers, Numba JIT, Vectorized Pipelines, Microstructure Signals (OFI, Realized Volatility).
+* **Languages & Core:** Python, TypeScript, SQL, Bash.
+* **Infrastructure & Cloud:** Linux, Docker, FastAPI, Redis, AWS (EC2, Lambda, DynamoDB, S3).
+
+---
 
 ![View Count](https://komarev.com/ghpvc/?username=soongenwong&label=Profile%20views&color=ffa500&style=for-the-badge)
 
